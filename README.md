@@ -1,16 +1,17 @@
-### Hi there 👋
+## 👨🏻‍💻Gabriel Victor da Silva Ferreira 
 
-<!--
-**GabrielFerrato/gabrielferrato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-1E66EB?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-victor-285513101/)](https://www.linkedin.com/in/gabriel-victor-285513101/)
 
-Here are some ideas to get you started:
+[![Instagram Badge](https://img.shields.io/badge/-instagram-ab35ac?style=flat-square&logo=Instagram&logoColor=white&link=)](https://www.instagram.com/gabrielvictor___/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+### Olá 👋
+
+Meu nome é Gabriel Victor, estou cursando Análise e Desenvolvimento de Sistemas e estou me aventurando em programação. 
+- 👨🏻‍💻 Analista de suporte ao usuário JR N1.
+- 📰 Estudando JavaScript e Desenvolvimento Web. 
+
+<hr>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabrielferrato&show_icons=true&theme=radical)
