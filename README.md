@@ -1,4 +1,4 @@
-## 👨🏻‍💻Gabriel Victor da Silva Ferreira 
+## 👨🏻‍💻Gabriel Ferreira 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-1E66EB?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-victor-285513101/)](https://www.linkedin.com/in/gabriel-victor-285513101/)
 [![Instagram Badge](https://img.shields.io/badge/-instagram-ab35ac?style=flat-square&logo=Instagram&logoColor=white&link=)](https://www.instagram.com/gabrielvictor___/)
@@ -9,7 +9,7 @@
 
 Pode me chamar de Ferrato. 🐱‍👤
 
-
+### Skills 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)  <br /> 
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)  <br /> 
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)  <br /> 
@@ -18,6 +18,7 @@ Pode me chamar de Ferrato. 🐱‍👤
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white) <br /> 
 ![MYSQL](https://img.shields.io/badge/-MYSQL-blue)  <br /> 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) <br /> 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) <br /> 
 
 <hr>
 
